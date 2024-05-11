@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Artificial Intelligence 
 - 💞️ I’m looking to collaborate and work together to enhance knowledge 
 - 📫 How to reach me https://www.linkedin.com/in/bonthasarath/
-- ⚡ Fun fact: Busy with exploring new things never get rest..
+- ⚡ Fun fact: Busy with exploring new things never get rest
 
 <!---
 sarathbontha/sarathbontha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
